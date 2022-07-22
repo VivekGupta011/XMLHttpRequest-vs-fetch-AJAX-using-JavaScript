@@ -1,0 +1,4 @@
+hello vivek how are you!
+
+
+XMLHttpRequest object can be used to exchange data with a web serrver behind the scenes
